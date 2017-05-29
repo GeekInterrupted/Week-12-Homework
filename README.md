@@ -1,2 +1,2 @@
-# Week-12-homework
+# Week-12-Homework
 Bamazon SQL
